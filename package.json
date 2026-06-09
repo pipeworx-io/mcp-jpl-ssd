@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jpl-ssd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NASA/JPL Solar System Dynamics + CNEOS MCP.",
   "type": "module",
   "main": "src/index.ts",
