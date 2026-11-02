@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jpl-ssd",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NASA/JPL Solar System Dynamics + CNEOS MCP. Keyless small-body (asteroid/comet), near-Earth close-approach, Sentry impact-risk, and recent fireball/bolide data.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jpl-ssd",
     "gatewaySlug": "jpl-ssd",
-    "sourceHash": "v1-ed16406015eae091f4d53dcbb11648a3d5fd730a01f5b6f04a3418aa2a451f0d",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-1dc83af3c92a28c37c92aab751cbcec0353f17a40a60b9fcb9337a2d94ea4aee",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
